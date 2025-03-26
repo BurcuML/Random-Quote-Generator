@@ -4,7 +4,7 @@ Bu proje, herkese açık bir API'den alıntıları getiren ve bunları bir web s
 
 ## Özellikler
 
--   [DummyJSON Sözler API'sinden](https://dummyjson.com/quotes) alıntılar getirir.
+-   [DummyJSON Quotes API'sinden](https://dummyjson.com/quotes) alıntılar getirir.
 -   Rastgele bir alıntı ve yazarını görüntüler.
 -   Kullanıcıların bir düğme tıklamasıyla yeni bir alıntı oluşturmasına olanak tanır.
 -   Basit ve temiz kullanıcı arayüzü.
@@ -14,11 +14,11 @@ Bu proje, herkese açık bir API'den alıntıları getiren ve bunları bir web s
 -   HTML
 -   CSS
 -   JavaScript
--   API (DummyJSON Sözler API'si)
+-   API (DummyJSON Quotes API'si)
 
 ## API Referansı
 
-Alıntılar [DummyJSON Sözler API'sinden](https://dummyjson.com/quotes) alınır. Bu API, JSON formatında bir alıntı ve yazarları koleksiyonu sağlar.
+Alıntılar [DummyJSON Quotes API'sinden](https://dummyjson.com/quotes) alınır. Bu API, JSON formatında bir alıntı ve yazarları koleksiyonu sağlar.
 
 ## Görseller
 
